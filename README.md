@@ -1,16 +1,16 @@
-# 🌟 Language Learning App
+#  Language Learning App
 
-## 📌 Project Overview
+##  Project Overview
 This project is a Kotlin-based Android application developed as part of the CodeAlpha Internship. The app is designed to help users learn new languages through an interactive and user-friendly interface.
 
-## ✨ Features
+##  Features
 - Learn vocabulary and phrases
 - Interactive and easy-to-use UI
 - AI-powered language assistance
 - Modern Android design using Jetpack Compose
 - Smooth navigation and responsive interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Kotlin
 - Android Studio
 - Jetpack Compose
@@ -18,16 +18,9 @@ This project is a Kotlin-based Android application developed as part of the Code
 - Gradle
 - Gemini API (if used)
 
-## 📂 Project Structure
-```
-app/
-├── src/
-├── res/
-├── java/
-├── AndroidManifest.xml
 ```
 
-## 🚀 Installation
+##  Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/praneethakesa/praneethakesa-codealpha_tasks3.git
@@ -39,13 +32,12 @@ app/
 
 4. Build and run the application on an emulator or Android device.
 
-## 📸 Screenshots
-Add screenshots of your application here.
 
-## 🎯 Purpose
+
+##  Purpose
 This project was developed to enhance Android development skills and demonstrate proficiency in Kotlin, Jetpack Compose, and modern mobile application development.
 
-## 👩‍💻 Author
+##  Author
 **Kesa Praneetha**
 
 GitHub: https://github.com/praneethakesa
